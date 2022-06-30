@@ -1,3 +1,4 @@
+![Development & Design  ](https://media-exp2.licdn.com/dms/image/C4E16AQEWBbILPd_Jww/profile-displaybackgroundimage-shrink_350_1400/0/1656593240858?e=1661990400&v=beta&t=nEBdvSlhYQ9l-3pJyZpPzOcCBXUF6_uf9u1cgse3338)
 
 
 
@@ -8,7 +9,6 @@ I'm Sultan Alharbi, a junior tech developer from Saudi Arabia. I enjoy learning 
 
 
  
-![Development & Design  ](https://media-exp2.licdn.com/dms/image/C4E16AQEWBbILPd_Jww/profile-displaybackgroundimage-shrink_350_1400/0/1656593240858?e=1661990400&v=beta&t=nEBdvSlhYQ9l-3pJyZpPzOcCBXUF6_uf9u1cgse3338)
 
 I'm Sultan Alharbi, a junior tech developer from Saudi Arabia. I have a bachelor's degree in information technology. I enjoy learning programming and am interested in a variety of technical fields.
 
