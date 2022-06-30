@@ -1,4 +1,4 @@
-![Development & Design  ](https://media-exp2.licdn.com/dms/image/C4E16AQEWBbILPd_Jww/profile-displaybackgroundimage-shrink_350_1400/0/1656593240858?e=1661990400&v=beta&t=nEBdvSlhYQ9l-3pJyZpPzOcCBXUF6_uf9u1cgse3338)
+![Development & Design  ](https://github.com/711SAH/711SAH/blob/main/sultan%20banner.jpg)
 
 ### assalam alaikum👋, I'm Sultan Alharbi
 
