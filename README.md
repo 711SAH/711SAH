@@ -1,13 +1,13 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/711SAH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sultan-a-alharbi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/711sah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/711SAH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC4H972M4gzxdJNJGx8DeFMw)  
 
-
-### Sultan Alharbi
-
-I'm Sultan Alharbi, a junior tech developer from Saudi Arabia. I enjoy learning programming and am interested in a variety of technical fields.
 
 
 ### assalam alaikum👋, I'm Sultan Alharbi
-#### Development & Design  
+### Development & Design 
+I'm Sultan Alharbi, a junior tech developer from Saudi Arabia. I enjoy learning programming and am interested in a variety of technical fields.
+
+
+
+ 
 ![Development & Design  ](https://media-exp2.licdn.com/dms/image/C4E16AQEWBbILPd_Jww/profile-displaybackgroundimage-shrink_350_1400/0/1656593240858?e=1661990400&v=beta&t=nEBdvSlhYQ9l-3pJyZpPzOcCBXUF6_uf9u1cgse3338)
 
 I'm Sultan Alharbi, a junior tech developer from Saudi Arabia. I have a bachelor's degree in information technology. I enjoy learning programming and am interested in a variety of technical fields.
@@ -21,3 +21,4 @@ Java / XML/ Python/ HTML / CSS
 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/711SAH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sultan-a-alharbi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/711sah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/711SAH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC4H972M4gzxdJNJGx8DeFMw)  
