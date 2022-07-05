@@ -9,7 +9,7 @@ Java / XML/ Python/ HTML / CSS
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning PHP 
-- 📫 How to reach me: sah071120@gmail.com 
+- 📫 How to reach me: alharbi.sultan@outlook.sa 
 
 
 
